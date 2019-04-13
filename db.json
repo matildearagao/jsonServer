@@ -1,25 +1,24 @@
-{
-  "users": [
+{ 
+ "data": [
     {
-      "id": "1",
-      "firstName": "John",
-      "lastName": "Smith",
-      "email": "john@gmail.com",
-      "companyID": "1"
+      "id": 1,
+      "name": "Matilde Homem",
+      "phone1": "9999999",
+      "phone2": "",
+      "email": "mash@email.pt",
+      "shipping": "address",
+      "billing": "address",
+      "expand": false
     },
     {
-      "firstName": "John2",
-      "lastName": "Doe2",
-      "email": "john@gmail.com2",
-      "companyID": "1",
-      "id": "2qkoq6W"
-    }
-  ],
-  "companies": [
-    {
-      "id": "1",
-      "name": "Apple",
-      "description": "lorem"
+      "id": 2,
+      "name": "Matilde Homem",
+      "phone1": "9999999",
+      "phone2": "9999999",
+      "email": "mash@email.pt",
+      "shipping": "address",
+      "billing": "address",
+      "expand": false
     }
   ]
 }
